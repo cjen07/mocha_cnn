@@ -19,5 +19,6 @@ $ julia
 julia> include("image-cnn.jl")
 ```
 
-### contribution
-* update for julia v0.5
+### remark
+* my contribution: update for julia v0.5
+* original example: [link](http://nbviewer.jupyter.org/github/pluskid/Mocha.jl/blob/master/examples/ijulia/ilsvrc12/imagenet-classifier.ipynb)
